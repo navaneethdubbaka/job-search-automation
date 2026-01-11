@@ -145,12 +145,7 @@ After importing, you'll need to set up the required credentials:
 
 ---
 
-## 📁 File Reference
 
-The workflow JSON file is located at:
-```
-c:\Users\sushu\OneDrive\Desktop\Workflows\test.json
-```
 
 ---
 
